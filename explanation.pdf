@@ -1,0 +1,27 @@
+Include:
+
+1) Code Structure
+
+The page is divided into header, navigation, main content, and footer using semantic HTML5 tags.
+
+2) Key Sections
+
+<header> contains newspaper title and logo.
+
+<nav> provides navigation links.
+
+<main> contains the table layout with three columns.
+
+<footer> contains copyright information.
+
+3) Design Decisions
+
+Tables were used to create newspaper column layout because CSS was forbidden.
+
+Semantic tags improve structure, readability, and SEO.
+
+4) Challenges
+
+Creating columns without CSS.
+
+Managing spacing using only HTML.
